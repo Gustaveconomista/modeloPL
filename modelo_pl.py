@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import os
 import mysql.connector as mdb
 
-con = mdb.connect(user='root', password ='113283Tt&', database='transfermarkt')
+con = mdb.connect(user='root', password ='', database='transfermarkt')
 
 con
 
